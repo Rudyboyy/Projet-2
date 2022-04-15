@@ -1,4 +1,4 @@
-# Projet-2
+# Projet-2 dans le cadre de la formation développeur d'application Android avec OpenClassrooms
 
 Scénario :
 
